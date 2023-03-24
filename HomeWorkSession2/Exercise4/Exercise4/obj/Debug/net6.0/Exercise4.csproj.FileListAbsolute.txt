@@ -1,0 +1,15 @@
+C:\Csharp Training\HomeWorkSession2\Exercise4\Exercise4\bin\Debug\net6.0\Exercise4.exe
+C:\Csharp Training\HomeWorkSession2\Exercise4\Exercise4\bin\Debug\net6.0\Exercise4.deps.json
+C:\Csharp Training\HomeWorkSession2\Exercise4\Exercise4\bin\Debug\net6.0\Exercise4.runtimeconfig.json
+C:\Csharp Training\HomeWorkSession2\Exercise4\Exercise4\bin\Debug\net6.0\Exercise4.dll
+C:\Csharp Training\HomeWorkSession2\Exercise4\Exercise4\bin\Debug\net6.0\Exercise4.pdb
+C:\Csharp Training\HomeWorkSession2\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.csproj.AssemblyReference.cache
+C:\Csharp Training\HomeWorkSession2\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp Training\HomeWorkSession2\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.AssemblyInfoInputs.cache
+C:\Csharp Training\HomeWorkSession2\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.AssemblyInfo.cs
+C:\Csharp Training\HomeWorkSession2\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.csproj.CoreCompileInputs.cache
+C:\Csharp Training\HomeWorkSession2\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.dll
+C:\Csharp Training\HomeWorkSession2\Exercise4\Exercise4\obj\Debug\net6.0\refint\Exercise4.dll
+C:\Csharp Training\HomeWorkSession2\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.pdb
+C:\Csharp Training\HomeWorkSession2\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.genruntimeconfig.cache
+C:\Csharp Training\HomeWorkSession2\Exercise4\Exercise4\obj\Debug\net6.0\ref\Exercise4.dll

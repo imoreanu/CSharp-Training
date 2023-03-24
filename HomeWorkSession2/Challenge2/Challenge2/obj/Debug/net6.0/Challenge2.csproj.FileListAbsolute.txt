@@ -1,0 +1,15 @@
+C:\Csharp Training\HomeWorkSession2\Challenge2\Challenge2\bin\Debug\net6.0\Challenge2.exe
+C:\Csharp Training\HomeWorkSession2\Challenge2\Challenge2\bin\Debug\net6.0\Challenge2.deps.json
+C:\Csharp Training\HomeWorkSession2\Challenge2\Challenge2\bin\Debug\net6.0\Challenge2.runtimeconfig.json
+C:\Csharp Training\HomeWorkSession2\Challenge2\Challenge2\bin\Debug\net6.0\Challenge2.dll
+C:\Csharp Training\HomeWorkSession2\Challenge2\Challenge2\bin\Debug\net6.0\Challenge2.pdb
+C:\Csharp Training\HomeWorkSession2\Challenge2\Challenge2\obj\Debug\net6.0\Challenge2.csproj.AssemblyReference.cache
+C:\Csharp Training\HomeWorkSession2\Challenge2\Challenge2\obj\Debug\net6.0\Challenge2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp Training\HomeWorkSession2\Challenge2\Challenge2\obj\Debug\net6.0\Challenge2.AssemblyInfoInputs.cache
+C:\Csharp Training\HomeWorkSession2\Challenge2\Challenge2\obj\Debug\net6.0\Challenge2.AssemblyInfo.cs
+C:\Csharp Training\HomeWorkSession2\Challenge2\Challenge2\obj\Debug\net6.0\Challenge2.csproj.CoreCompileInputs.cache
+C:\Csharp Training\HomeWorkSession2\Challenge2\Challenge2\obj\Debug\net6.0\Challenge2.dll
+C:\Csharp Training\HomeWorkSession2\Challenge2\Challenge2\obj\Debug\net6.0\refint\Challenge2.dll
+C:\Csharp Training\HomeWorkSession2\Challenge2\Challenge2\obj\Debug\net6.0\Challenge2.pdb
+C:\Csharp Training\HomeWorkSession2\Challenge2\Challenge2\obj\Debug\net6.0\Challenge2.genruntimeconfig.cache
+C:\Csharp Training\HomeWorkSession2\Challenge2\Challenge2\obj\Debug\net6.0\ref\Challenge2.dll
