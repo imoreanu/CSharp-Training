@@ -1,0 +1,15 @@
+C:\Csharp-Training\CSharp-Training\HomeWorkSession4\ListContestParticipants\bin\Debug\net6.0\ListContestParticipants.exe
+C:\Csharp-Training\CSharp-Training\HomeWorkSession4\ListContestParticipants\bin\Debug\net6.0\ListContestParticipants.deps.json
+C:\Csharp-Training\CSharp-Training\HomeWorkSession4\ListContestParticipants\bin\Debug\net6.0\ListContestParticipants.runtimeconfig.json
+C:\Csharp-Training\CSharp-Training\HomeWorkSession4\ListContestParticipants\bin\Debug\net6.0\ListContestParticipants.dll
+C:\Csharp-Training\CSharp-Training\HomeWorkSession4\ListContestParticipants\bin\Debug\net6.0\ListContestParticipants.pdb
+C:\Csharp-Training\CSharp-Training\HomeWorkSession4\ListContestParticipants\obj\Debug\net6.0\ListContestParticipants.csproj.AssemblyReference.cache
+C:\Csharp-Training\CSharp-Training\HomeWorkSession4\ListContestParticipants\obj\Debug\net6.0\ListContestParticipants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp-Training\CSharp-Training\HomeWorkSession4\ListContestParticipants\obj\Debug\net6.0\ListContestParticipants.AssemblyInfoInputs.cache
+C:\Csharp-Training\CSharp-Training\HomeWorkSession4\ListContestParticipants\obj\Debug\net6.0\ListContestParticipants.AssemblyInfo.cs
+C:\Csharp-Training\CSharp-Training\HomeWorkSession4\ListContestParticipants\obj\Debug\net6.0\ListContestParticipants.csproj.CoreCompileInputs.cache
+C:\Csharp-Training\CSharp-Training\HomeWorkSession4\ListContestParticipants\obj\Debug\net6.0\ListContestParticipants.dll
+C:\Csharp-Training\CSharp-Training\HomeWorkSession4\ListContestParticipants\obj\Debug\net6.0\refint\ListContestParticipants.dll
+C:\Csharp-Training\CSharp-Training\HomeWorkSession4\ListContestParticipants\obj\Debug\net6.0\ListContestParticipants.pdb
+C:\Csharp-Training\CSharp-Training\HomeWorkSession4\ListContestParticipants\obj\Debug\net6.0\ListContestParticipants.genruntimeconfig.cache
+C:\Csharp-Training\CSharp-Training\HomeWorkSession4\ListContestParticipants\obj\Debug\net6.0\ref\ListContestParticipants.dll
