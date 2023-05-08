@@ -1,0 +1,15 @@
+C:\Csharp-Training\CSharp-Training\HomeWorkSession3\Robot\bin\Debug\net6.0\Automaton.exe
+C:\Csharp-Training\CSharp-Training\HomeWorkSession3\Robot\bin\Debug\net6.0\Automaton.deps.json
+C:\Csharp-Training\CSharp-Training\HomeWorkSession3\Robot\bin\Debug\net6.0\Automaton.runtimeconfig.json
+C:\Csharp-Training\CSharp-Training\HomeWorkSession3\Robot\bin\Debug\net6.0\Automaton.dll
+C:\Csharp-Training\CSharp-Training\HomeWorkSession3\Robot\bin\Debug\net6.0\Automaton.pdb
+C:\Csharp-Training\CSharp-Training\HomeWorkSession3\Robot\obj\Debug\net6.0\Automaton.csproj.AssemblyReference.cache
+C:\Csharp-Training\CSharp-Training\HomeWorkSession3\Robot\obj\Debug\net6.0\Automaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp-Training\CSharp-Training\HomeWorkSession3\Robot\obj\Debug\net6.0\Automaton.AssemblyInfoInputs.cache
+C:\Csharp-Training\CSharp-Training\HomeWorkSession3\Robot\obj\Debug\net6.0\Automaton.AssemblyInfo.cs
+C:\Csharp-Training\CSharp-Training\HomeWorkSession3\Robot\obj\Debug\net6.0\Automaton.csproj.CoreCompileInputs.cache
+C:\Csharp-Training\CSharp-Training\HomeWorkSession3\Robot\obj\Debug\net6.0\Automaton.dll
+C:\Csharp-Training\CSharp-Training\HomeWorkSession3\Robot\obj\Debug\net6.0\refint\Automaton.dll
+C:\Csharp-Training\CSharp-Training\HomeWorkSession3\Robot\obj\Debug\net6.0\Automaton.pdb
+C:\Csharp-Training\CSharp-Training\HomeWorkSession3\Robot\obj\Debug\net6.0\Automaton.genruntimeconfig.cache
+C:\Csharp-Training\CSharp-Training\HomeWorkSession3\Robot\obj\Debug\net6.0\ref\Automaton.dll
