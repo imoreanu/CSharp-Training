@@ -1,0 +1,15 @@
+C:\Csharp-Training\CSharp-Training\HomeWorkSession6\ZooManagementSystem\bin\Debug\net6.0\ZooManagementSystem.exe
+C:\Csharp-Training\CSharp-Training\HomeWorkSession6\ZooManagementSystem\bin\Debug\net6.0\ZooManagementSystem.deps.json
+C:\Csharp-Training\CSharp-Training\HomeWorkSession6\ZooManagementSystem\bin\Debug\net6.0\ZooManagementSystem.runtimeconfig.json
+C:\Csharp-Training\CSharp-Training\HomeWorkSession6\ZooManagementSystem\bin\Debug\net6.0\ZooManagementSystem.dll
+C:\Csharp-Training\CSharp-Training\HomeWorkSession6\ZooManagementSystem\bin\Debug\net6.0\ZooManagementSystem.pdb
+C:\Csharp-Training\CSharp-Training\HomeWorkSession6\ZooManagementSystem\obj\Debug\net6.0\ZooManagementSystem.csproj.AssemblyReference.cache
+C:\Csharp-Training\CSharp-Training\HomeWorkSession6\ZooManagementSystem\obj\Debug\net6.0\ZooManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp-Training\CSharp-Training\HomeWorkSession6\ZooManagementSystem\obj\Debug\net6.0\ZooManagementSystem.AssemblyInfoInputs.cache
+C:\Csharp-Training\CSharp-Training\HomeWorkSession6\ZooManagementSystem\obj\Debug\net6.0\ZooManagementSystem.AssemblyInfo.cs
+C:\Csharp-Training\CSharp-Training\HomeWorkSession6\ZooManagementSystem\obj\Debug\net6.0\ZooManagementSystem.csproj.CoreCompileInputs.cache
+C:\Csharp-Training\CSharp-Training\HomeWorkSession6\ZooManagementSystem\obj\Debug\net6.0\ZooManagementSystem.dll
+C:\Csharp-Training\CSharp-Training\HomeWorkSession6\ZooManagementSystem\obj\Debug\net6.0\refint\ZooManagementSystem.dll
+C:\Csharp-Training\CSharp-Training\HomeWorkSession6\ZooManagementSystem\obj\Debug\net6.0\ZooManagementSystem.pdb
+C:\Csharp-Training\CSharp-Training\HomeWorkSession6\ZooManagementSystem\obj\Debug\net6.0\ZooManagementSystem.genruntimeconfig.cache
+C:\Csharp-Training\CSharp-Training\HomeWorkSession6\ZooManagementSystem\obj\Debug\net6.0\ref\ZooManagementSystem.dll
