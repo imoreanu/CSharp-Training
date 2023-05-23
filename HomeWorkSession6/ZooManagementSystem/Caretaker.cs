@@ -1,8 +1,10 @@
-﻿namespace ZooManagementSystem
+﻿using static System.Console;
+
+namespace ZooManagementSystem
 {
     public class Caretaker : Worker
     {
-        List<Animal> animalList;
+        public List<Animal> animalList;
         public Caretaker(string name, List<Animal> animalList) : base(name)
         {
             this.animalList = animalList;
@@ -14,13 +16,13 @@
             {
                 if (animal.IsFed) 
                 {
-                    Console.WriteLine($"{animal.Name} is fed");
+                    WriteLine($"The {animal.Type} is fed");
                 }
                 else
                 {
-                    Console.WriteLine($"Feeding {animal.Name}");
+                    WriteLine($"\nFeeding the {animal.Type}");
                     animal.IsFed = true;
-                    Console.WriteLine($"{animal.Name} was fed");
+                    WriteLine($"The {animal.Type} was fed");
                 }
             }
         }

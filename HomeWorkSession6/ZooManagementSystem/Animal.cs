@@ -1,20 +1,27 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using static System.Console;
 
 namespace ZooManagementSystem
 {
     public class Animal
     {
+        public string Type { get; set; }
         public string Name { get; set; }
         public string Diet { get; set; }
         public bool IsFed { get; set; }
-        public Animal(string name, string diet)
+        public ConsoleColor Color { get; set; }
+        public Animal(string type, string name, string diet, ConsoleColor color)
         {
+            Type = type;
             Name = name;
             Diet = diet;
+            Color = color;
+        }
+
+        public void Greet()
+        {
+            ForegroundColor = Color;
+            WriteLine($"The {Type} attempts to pronounce its own name: {Name}");
+            ResetColor();
         }
     }
 }

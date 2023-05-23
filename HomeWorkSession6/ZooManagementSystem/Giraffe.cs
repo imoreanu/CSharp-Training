@@ -1,8 +1,8 @@
 ﻿namespace ZooManagementSystem
 {
-    public class Giraffe : Animal
+    class Giraffe : Animal
     {
-        public Giraffe(string name, string diet) : base(name, diet)
+        public Giraffe(string type, string name, string diet, ConsoleColor color) : base(type, name, diet, color)
         {
         }
     }

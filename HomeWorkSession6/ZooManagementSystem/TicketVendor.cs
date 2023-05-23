@@ -1,22 +1,27 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿using static System.Console;
 namespace ZooManagementSystem
 {
     public class TicketVendor : Worker
     {
+        public int AvailableTickets { get; set; }
         public int SoldTickets { get; set; }
-        public TicketVendor(string name) : base(name)
+        public TicketVendor(string name, int availableTickets, int soldTickets) : base(name)
         {
-            SoldTickets = 0;
+            AvailableTickets = availableTickets;
+            SoldTickets = soldTickets;
         }
 
-        public void SellTickets(int NumberOfTickets)
+        public void SellTickets(int soldTickets)
         {
-            SoldTickets += NumberOfTickets;
+            if (AvailableTickets > 0)
+            {
+                AvailableTickets -= soldTickets;
+                WriteLine($"\nThere are {AvailableTickets} tickets available.");
+            }
+            else if (AvailableTickets == 0)
+            {
+                WriteLine("\nThe tickets were sold out!");
+            }
         }
     }
 }
