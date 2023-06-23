@@ -8,7 +8,13 @@ namespace UniversityManagement
         static void Main(string[] args)
         {
             using Context myContext = new Context();
-            myContext.Students.Add(new Student()
+
+            var myClass = myContext
+                .Classes
+                .FirstOrDefault(c => c.MaxClassSize > 0);
+
+            myClass.ClassName = "Lexical Challenges";
+            /*myContext.Students.Add(new Student()
             {
                 StudentName = "Maggie Peters",
                 Age = 21,
@@ -26,9 +32,14 @@ namespace UniversityManagement
                         ClassName = "French Revolution",
                         MaxClassSize = 20
                     }
+
+
+
+
+
                 }
             }
-            );
+            );*/
             myContext.SaveChanges();
         }   
     }
